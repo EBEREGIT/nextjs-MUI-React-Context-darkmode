@@ -2,6 +2,8 @@
 
 Learn how to set up a Nextjs (App Router) project Dark mode with MUI and React Context Hook. 
 
+Here is the [video](https://www.youtube.com/watch?v=fWwnu_iXGmE&t=11s)
+
 ## Dependencies
 * [Nextjs](https://nextjs.org/)
 * [React](https://react.dev/)
